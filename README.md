@@ -3,11 +3,11 @@
 MalAPI Hunter is an IDA Pro plugin designed for advanced static malware analysis. It automatically identifies, classifies, and highlights suspicious Windows API calls across categories such as process injection, evasion, anti-debugging, networking, and cryptography. The plugin integrates a curated database of Win32, Native NT, and DLL-specific APIs, enabling fast understanding of malicious behavior patterns and improving reverse engineering accuracy. It provides instruction-level highlighting inside IDA and a structured GUI panel for navigation, filtering, and analysis of API usage, significantly improving static analysis workflow and detection efficiency. The plugin is accessed via the hotkey Ctrl + Shift + A after installation.
 
 
-![image_alt](https://github.com/malfav/MalAPI-Hunter/blob/03069ccc7d96faec8dbc52f4bc0d406e4995b516/Interface.png)
+![image_alt](https://github.com/malfav/MalAPI-Hunter/blob/main/Interface.png?raw=true)
 
 # API's Database 
 
-![image_alt](https://github.com/malfav/MalAPI-Hunter/blob/main/APIDatabse_Interface.png?raw=true)
+![image_alt](https://github.com/malfav/MalAPI-Hunter/blob/main/API_Database.png?raw=true)
 
 
 ## Features
