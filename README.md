@@ -11,3 +11,18 @@ Features:
 - Fast static behavior overview
 - Supports reverse engineering workflows
 - Hotkey access (Ctrl+Shift+A)
+
+Installation:
+
+- Copy mal_api_hunter.py into:
+- C:\Users\your_username\AppData\Roaming\Hex-Rays\IDA Pro\plugins
+- Restart IDA Pro
+- The plugin will load automatically
+
+- Usage:
+
+- Open a binary in IDA Pro
+- Press Ctrl+Shift+A to launch the plugin
+- Browse detected APIs in the GUI panel
+- Click entries to navigate to code locations
+- Analyze categorized behavior for faster triage
