@@ -23,7 +23,9 @@ MalAPI Hunter is an IDA Pro plugin designed for advanced static malware analysis
 
 - mal_api_hunter.py must be copied into: C:\Users\your_username\AppData\Roaming\Hex-Rays\IDA Pro\plugins
 
-## Note : After placing the file, restart IDA Pro. Open a binary, press Ctrl + Shift + A, and use the GUI panel to browse detected APIs, navigate to code locations, and analyze categorized behavior for faster triage.
+## Note : 
+
+- After placing the file, restart IDA Pro. Open a binary, press Ctrl + Shift + A, and use the GUI panel to browse detected APIs, navigate to code locations, and analyze categorized behavior for faster triage.
 
 ![image_alt](https://github.com/malfav/MalAPI-Hunter/blob/main/Usage.png?raw=true)
 
