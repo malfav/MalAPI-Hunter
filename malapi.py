@@ -1,5 +1,5 @@
 # ============================================================
-#  mal_api_hunter.py  —  IDA Pro Plugin  v2.1
+#  mal_api_hunter.py  —  IDA Pro Plugin  v1.0
 #  Highlights malicious / suspicious API calls and provides
 #  a clean GUI panel for navigation and classification.
 #
@@ -17,7 +17,7 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 
 PLUGIN_NAME    = "MalAPI"
 PLUGIN_HOTKEY  = "Ctrl+Shift+A"
-PLUGIN_VERSION = "2.1"
+PLUGIN_VERSION = "1.0"
 Plugin_Author  = "Diyar Saadi"
 
 # ── Instruction highlight colour (IDA BGR format) ──────────
