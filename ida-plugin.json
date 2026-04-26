@@ -1,24 +1,21 @@
 {
   "IDAMetadataDescriptorVersion": 1,
-  "plugin": {
-    "name": "mal-api-hunter",
-    "version": "1.0",
-    "entryPoint": "malapi.py",
-    "description": "Highlights malicious/suspicious API calls and provides a clean GUI panel for navigation and classification.",
-    "urls": {
-      "repository": "https://github.com/malfav/MalAPI-Hunter"
-    },
-    "authors": [
-      {
-        "name": "Diyar Saadi"
-      }
-    ],
-    "categories": [
-      "Highlights malicious/suspicious API calls",
-      
-    ],
-    "python_requirements": [
-      "PyQt5"
-    ]
-  }
+  "name": "mal-api-hunter",
+  "version": "1.0.0",
+  "entryPoint": "malapi.py",
+  "description": "Highlights malicious and suspicious API calls and provides a GUI panel for classification and navigation inside IDA Pro.",
+  "repository": "https://github.com/malfav/MalAPI-Hunter",
+  "authors": [
+    {
+      "name": "Diyar Saadi"
+    }
+  ],
+  "categories": [
+    "malware-analysis",
+    "api-analysis",
+    "reverse-engineering"
+  ],
+  "python_requirements": [
+    "PyQt5"
+  ]
 }
